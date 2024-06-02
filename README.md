@@ -3,6 +3,8 @@ Manage your [netcup](https://www.netcup.de) DNS settings with [Terraform](https:
 
 ![](example.png)
 
+Using this provider: https://registry.terraform.io/providers/sveba/netcupdns/latest/docs
+
 In main.tf you can find the DNS settings that I mostly use. Feel free to add yours by copying them from the netcup domain DNS settings
 
 # Get started
